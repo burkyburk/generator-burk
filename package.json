@@ -1,9 +1,9 @@
 {
-  "name": "generator-tiyfe",
+  "name": "generator-burk",
   "version": "0.2.0",
   "description": "Scaffold out a front-end web app",
   "license": "BSD",
-  "repository": "alarner/generator-tiyfe",
+  "repository": "burkyburk/generator-burk",
   "author": "The Yeoman Team",
   "main": "app/index.js",
   "engines": {
